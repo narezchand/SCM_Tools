@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="2344" lt="0" ts="1442222141625" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="2049" lt="2048" ts="1442222141698" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="295" lt="295" ts="1442222143819" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="82" lt="0" ts="1442222144152" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="9" lt="9" ts="1442222144157" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="73" lt="73" ts="1442222144167" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="34" lt="0" ts="1442222144244" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="29" lt="27" ts="1442222144245" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="5" lt="5" ts="1442222144277" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="752" lt="0" ts="1442223497768" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="554" lt="553" ts="1442223497815" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="198" lt="198" ts="1442223498487" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="129" lt="0" ts="1442223498708" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="124" lt="124" ts="1442223498712" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="5" lt="5" ts="1442223498838" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="47" lt="0" ts="1442223498846" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="24" lt="22" ts="1442223498863" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="23" lt="23" ts="1442223498892" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="1668" lt="0" ts="1442223910079" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="1344" lt="1343" ts="1442223910111" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="324" lt="324" ts="1442223911528" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="12" lt="0" ts="1442223911873" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="5" lt="5" ts="1442223911877" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="7" lt="7" ts="1442223911898" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="121" lt="0" ts="1442223911910" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="114" lt="113" ts="1442223911927" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="7" lt="7" ts="1442223912047" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="653" lt="0" ts="1442383451360" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="506" lt="505" ts="1442383451427" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="147" lt="147" ts="1442383452063" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="42" lt="0" ts="1442383452229" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="36" lt="36" ts="1442383452233" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="6" lt="6" ts="1442383452270" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="50" lt="0" ts="1442383452279" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="29" lt="22" ts="1442383452295" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="21" lt="21" ts="1442383452330" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="871" lt="0" ts="1442384991643" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="366" lt="366" ts="1442384991680" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="505" lt="505" ts="1442384992063" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="17" lt="0" ts="1442384992588" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="11" lt="11" ts="1442384992590" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="6" lt="6" ts="1442384992602" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="37" lt="0" ts="1442384992612" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="31" lt="27" ts="1442384992613" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="6" lt="5" ts="1442384992649" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="6311" lt="0" ts="1443519865360" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="3614" lt="3614" ts="1443519865409" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="2697" lt="2697" ts="1443519869097" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="59" lt="0" ts="1443519871819" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="15" lt="15" ts="1443519871826" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="44" lt="43" ts="1443519871842" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="60" lt="0" ts="1443519871890" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="46" lt="41" ts="1443519871910" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="14" lt="13" ts="1443519871963" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="5200" lt="0" ts="1443521106666" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="4442" lt="4442" ts="1443521106719" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="758" lt="758" ts="1443521111244" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="513" lt="0" ts="1443521112021" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="208" lt="207" ts="1443521112026" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="305" lt="305" ts="1443521112234" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="54" lt="0" ts="1443521112542" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="49" lt="43" ts="1443521112560" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="5" lt="5" ts="1443521112615" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="180" lt="0" ts="1444114754009" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="164" lt="164" ts="1444114754065" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="16" lt="16" ts="1444114754293" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="26" lt="0" ts="1444114754328" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="7" lt="7" ts="1444114754332" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="19" lt="19" ts="1444114754356" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="71" lt="0" ts="1444114754378" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="64" lt="54" ts="1444114754399" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="7" lt="6" ts="1444114754468" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="146" lt="0" ts="1444115097849" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="132" lt="132" ts="1444115097893" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="14" lt="14" ts="1444115098183" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="42" lt="0" ts="1444115098227" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="8" lt="8" ts="1444115098232" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="34" lt="34" ts="1444115098241" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="314" lt="0" ts="1444115098278" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="296" lt="291" ts="1444115098279" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="18" lt="15" ts="1444115098600" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="3082" lt="0" ts="1444116035878" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="2824" lt="2824" ts="1444116035911" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="258" lt="258" ts="1444116038860" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="22" lt="0" ts="1444116039143" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="10" lt="10" ts="1444116039147" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="12" lt="12" ts="1444116039158" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="56" lt="0" ts="1444116039173" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="28" lt="25" ts="1444116039174" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="28" lt="28" ts="1444116039227" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="182" lt="0" ts="1444116363324" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1337">
+  <httpSample t="168" lt="168" ts="1444116363435" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="14" lt="14" ts="1444116363744" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="25" lt="0" ts="1444116363782" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="978">
+  <httpSample t="10" lt="10" ts="1444116363786" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+  <httpSample t="15" lt="15" ts="1444116363797" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="489"/>
+</sample>
+<sample t="93" lt="0" ts="1444116363815" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="72" lt="72" ts="1444116363830" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="21" lt="20" ts="1444116363907" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="105" lt="0" ts="1444116440452" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1338">
+  <httpSample t="91" lt="91" ts="1444116440489" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="14" lt="14" ts="1444116440694" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="490"/>
+</sample>
+<sample t="19" lt="0" ts="1444116440728" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="980">
+  <httpSample t="12" lt="12" ts="1444116440731" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="490"/>
+  <httpSample t="7" lt="7" ts="1444116440744" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="490"/>
+</sample>
+<sample t="271" lt="0" ts="1444116440754" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="264" lt="259" ts="1444116440755" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="7" lt="6" ts="1444116441042" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="113" lt="0" ts="1444119376404" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1332">
+  <httpSample t="101" lt="100" ts="1444119376595" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="12" lt="12" ts="1444119376849" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="484"/>
+</sample>
+<sample t="28" lt="0" ts="1444119376882" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="968">
+  <httpSample t="11" lt="10" ts="1444119376887" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="484"/>
+  <httpSample t="17" lt="17" ts="1444119376899" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="484"/>
+</sample>
+<sample t="32" lt="0" ts="1444119376920" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="25" lt="22" ts="1444119376967" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="7" lt="5" ts="1444119376999" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="121" lt="0" ts="1444119841967" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1332">
+  <httpSample t="106" lt="106" ts="1444119842071" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="15" lt="15" ts="1444119842317" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="484"/>
+</sample>
+<sample t="25" lt="0" ts="1444119842362" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="968">
+  <httpSample t="8" lt="8" ts="1444119842367" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="484"/>
+  <httpSample t="17" lt="16" ts="1444119842376" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="484"/>
+</sample>
+<sample t="73" lt="0" ts="1444119842397" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="59" lt="55" ts="1444119842414" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="14" lt="13" ts="1444119842481" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="232" lt="0" ts="1444379663932" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="198" lt="198" ts="1444379664009" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="34" lt="34" ts="1444379664281" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="98" lt="0" ts="1444379664337" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="19" lt="19" ts="1444379664340" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="79" lt="79" ts="1444379664374" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="40" lt="0" ts="1444379664457" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="26" lt="20" ts="1444379664473" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="14" lt="14" ts="1444379664506" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="199" lt="0" ts="1444380636886" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="123" lt="123" ts="1444380636920" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="76" lt="76" ts="1444380637166" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="24" lt="0" ts="1444380637262" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="8" lt="8" ts="1444380637265" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="16" lt="16" ts="1444380637274" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="45" lt="0" ts="1444380637292" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="34" lt="28" ts="1444380637293" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="11" lt="9" ts="1444380637349" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="1565" lt="0" ts="1444633058941" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="955" lt="955" ts="1444633058960" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="610" lt="610" ts="1444633059974" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="22" lt="0" ts="1444633060602" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="9" lt="9" ts="1444633060606" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="13" lt="13" ts="1444633060616" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="49" lt="0" ts="1444633060631" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="43" lt="38" ts="1444633060632" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="6" lt="5" ts="1444633060694" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="3270" lt="0" ts="1444633454504" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="1277" lt="1277" ts="1444633454541" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="1993" lt="1993" ts="1444633455960" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="92" lt="0" ts="1444633457973" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="50" lt="50" ts="1444633457977" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="42" lt="42" ts="1444633458028" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="44" lt="0" ts="1444633458073" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="27" lt="22" ts="1444633458074" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="17" lt="16" ts="1444633458121" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="1221" lt="0" ts="1444633644753" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="512" lt="512" ts="1444633644788" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="709" lt="709" ts="1444633645420" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="47" lt="0" ts="1444633646147" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="39" lt="38" ts="1444633646150" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="8" lt="7" ts="1444633646190" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="40" lt="0" ts="1444633646200" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="24" lt="21" ts="1444633646201" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="16" lt="14" ts="1444633646245" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="908" lt="0" ts="1444800037975" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="568" lt="568" ts="1444800038064" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="340" lt="340" ts="1444800038701" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="38" lt="0" ts="1444800039061" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="24" lt="23" ts="1444800039082" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="14" lt="14" ts="1444800039125" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="46" lt="0" ts="1444800039142" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="39" lt="29" ts="1444800039142" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="7" lt="6" ts="1444800039186" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="744" lt="0" ts="1444800347196" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="540" lt="539" ts="1444800347228" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="204" lt="204" ts="1444800347891" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="196" lt="0" ts="1444800348117" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="187" lt="187" ts="1444800348121" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="9" lt="9" ts="1444800348309" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="40" lt="0" ts="1444800348321" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="33" lt="28" ts="1444800348322" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="7" lt="5" ts="1444800348375" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="1267" lt="0" ts="1444802587954" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="1046" lt="1046" ts="1444802587995" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="221" lt="221" ts="1444802589182" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="46" lt="0" ts="1444802589429" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="29" lt="28" ts="1444802589433" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="17" lt="17" ts="1444802589463" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="59" lt="0" ts="1444802589483" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="27" lt="21" ts="1444802589483" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="32" lt="32" ts="1444802589530" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="884" lt="0" ts="1444802820404" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="678" lt="678" ts="1444802820694" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="206" lt="206" ts="1444802821524" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="245" lt="0" ts="1444802821756" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="235" lt="235" ts="1444802821760" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="10" lt="10" ts="1444802821996" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="57" lt="0" ts="1444802822010" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="24" lt="20" ts="1444802822011" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="33" lt="32" ts="1444802822064" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="1175" lt="0" ts="1444803866663" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="952" lt="952" ts="1444803866717" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="223" lt="223" ts="1444803867820" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="48" lt="0" ts="1444803868064" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="14" lt="14" ts="1444803868068" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="34" lt="34" ts="1444803868083" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="38" lt="0" ts="1444803868119" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="82083">
+  <httpSample t="32" lt="29" ts="1444803868120" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="37728"/>
+  <httpSample t="6" lt="5" ts="1444803868175" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="312" lt="0" ts="1445235934744" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="93" lt="93" ts="1445235934787" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="219" lt="219" ts="1445235934963" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="29" lt="0" ts="1445235935209" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="12" lt="12" ts="1445235935213" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="17" lt="17" ts="1445235935243" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="49" lt="0" ts="1445235935265" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="23" lt="20" ts="1445235935283" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="26" lt="26" ts="1445235935313" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="131" lt="0" ts="1445252668102" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1325">
+  <httpSample t="115" lt="115" ts="1445252668543" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="848"/>
+  <httpSample t="16" lt="16" ts="1445252668731" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="48" lt="0" ts="1445252668773" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="954">
+  <httpSample t="13" lt="13" ts="1445252668778" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+  <httpSample t="35" lt="35" ts="1445252668810" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="477"/>
+</sample>
+<sample t="356" lt="0" ts="1445252668849" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="350" lt="346" ts="1445252668865" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="6" lt="6" ts="1445252669221" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="5565" lt="0" ts="1446185234759" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1326">
+  <httpSample t="4569" lt="4569" ts="1446185234811" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="850"/>
+  <httpSample t="996" lt="996" ts="1446185239454" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="476"/>
+</sample>
+<sample t="49" lt="0" ts="1446185240469" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="952">
+  <httpSample t="27" lt="27" ts="1446185240473" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="476"/>
+  <httpSample t="22" lt="22" ts="1446185240515" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="476"/>
+</sample>
+<sample t="38" lt="0" ts="1446185240540" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="32" lt="28" ts="1446185240556" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="6" lt="5" ts="1446185240595" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="3709" lt="0" ts="1446438110805" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1343">
+  <httpSample t="1877" lt="1877" ts="1446438110863" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="850"/>
+  <httpSample t="1832" lt="1832" ts="1446438112805" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="493"/>
+</sample>
+<sample t="79" lt="0" ts="1446438114656" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="986">
+  <httpSample t="71" lt="71" ts="1446438114659" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="493"/>
+  <httpSample t="8" lt="8" ts="1446438114745" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="493"/>
+</sample>
+<sample t="56" lt="0" ts="1446438114756" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="33" lt="31" ts="1446438114773" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="23" lt="23" ts="1446438114812" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="1548" lt="0" ts="1446438417153" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1343">
+  <httpSample t="454" lt="454" ts="1446438417194" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="850"/>
+  <httpSample t="1094" lt="1093" ts="1446438417775" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="493"/>
+</sample>
+<sample t="34" lt="0" ts="1446438418889" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="986">
+  <httpSample t="16" lt="16" ts="1446438418893" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="493"/>
+  <httpSample t="18" lt="18" ts="1446438418910" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="493"/>
+</sample>
+<sample t="3278" lt="0" ts="1446438418931" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="3242" lt="3225" ts="1446438418932" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="36" lt="23" ts="1446438422194" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="25" lt="0" ts="1446533459342" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1305">
+  <httpSample t="18" lt="18" ts="1446533459353" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="833"/>
+  <httpSample t="7" lt="7" ts="1446533459387" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+</sample>
+<sample t="5" lt="0" ts="1446533459400" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="944">
+  <httpSample t="3" lt="3" ts="1446533459400" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+  <httpSample t="2" lt="2" ts="1446533459404" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+</sample>
+<sample t="1750" lt="0" ts="1446533459407" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="1251" lt="818" ts="1446533459407" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="499" lt="260" ts="1446533460661" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="32" lt="0" ts="1446533717473" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1305">
+  <httpSample t="26" lt="26" ts="1446533717483" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="833"/>
+  <httpSample t="6" lt="6" ts="1446533717526" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+</sample>
+<sample t="13" lt="0" ts="1446533717539" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="944">
+  <httpSample t="8" lt="8" ts="1446533717540" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+  <httpSample t="5" lt="5" ts="1446533717548" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+</sample>
+<sample t="1849" lt="0" ts="1446533717554" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="1322" lt="788" ts="1446533717554" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="527" lt="257" ts="1446533718877" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+<sample t="28" lt="0" ts="1446541824160" s="true" lb="Launch" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1305">
+  <httpSample t="17" lt="17" ts="1446541824171" s="true" lb="/CounterWebApp/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="833"/>
+  <httpSample t="11" lt="11" ts="1446541824200" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+</sample>
+<sample t="19" lt="0" ts="1446541824216" s="true" lb="Click_Servlet" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="944">
+  <httpSample t="7" lt="7" ts="1446541824216" s="true" lb="/CounterWebApp/hello" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+  <httpSample t="12" lt="12" ts="1446541824224" s="true" lb="/CounterWebApp/polaris.jpeg" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="472"/>
+</sample>
+<sample t="1775" lt="0" ts="1446541824237" s="true" lb="Click_PolarisFT" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="80522">
+  <httpSample t="1263" lt="754" ts="1446541824238" s="true" lb="/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36167"/>
+  <httpSample t="512" lt="248" ts="1446541825503" s="true" lb="/fonts/social-icons.ttf" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="44355"/>
+</sample>
+
+</testResults>

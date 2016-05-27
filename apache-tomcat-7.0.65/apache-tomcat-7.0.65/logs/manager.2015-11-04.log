@@ -1,0 +1,8 @@
+Nov 04, 2015 8:34:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/CounterWebApp'
+Nov 04, 2015 8:34:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war.tmp
+Nov 04, 2015 8:40:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/CounterWebApp'
+Nov 04, 2015 8:40:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war.tmp

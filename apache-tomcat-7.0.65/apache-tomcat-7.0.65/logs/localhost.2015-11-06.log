@@ -1,0 +1,8 @@
+Nov 06, 2015 9:54:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Nov 06, 2015 9:54:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Nov 06, 2015 9:54:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'mvc-dispatcher'
+Nov 06, 2015 9:54:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: Closing Spring root WebApplicationContext

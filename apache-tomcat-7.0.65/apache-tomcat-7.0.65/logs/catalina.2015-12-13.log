@@ -1,0 +1,56 @@
+Dec 13, 2015 5:13:33 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Loaded APR based Apache Tomcat Native library 1.1.33 using APR version 1.5.1.
+Dec 13, 2015 5:13:33 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+Dec 13, 2015 5:13:33 AM org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1m 19 Mar 2015)
+Dec 13, 2015 5:13:34 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8081"]
+Dec 13, 2015 5:13:34 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+Dec 13, 2015 5:13:34 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1445 ms
+Dec 13, 2015 5:13:34 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 13, 2015 5:13:34 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.65
+Dec 13, 2015 5:13:34 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war
+Dec 13, 2015 5:13:35 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war has finished in 2,172 ms
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\docs
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\docs has finished in 47 ms
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\examples
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\examples has finished in 297 ms
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\host-manager
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\host-manager has finished in 47 ms
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\manager
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\manager has finished in 47 ms
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\ROOT
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\SCM_Tools\apache-tomcat-7.0.65\webapps\ROOT has finished in 15 ms
+Dec 13, 2015 5:13:36 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8081"]
+Dec 13, 2015 5:13:36 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+Dec 13, 2015 5:13:36 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2710 ms
+Dec 13, 2015 6:07:48 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/CounterWebApp]
+Dec 13, 2015 6:07:49 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war
+Dec 13, 2015 6:07:49 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Dec 13, 2015 6:07:50 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war has finished in 1,297 ms

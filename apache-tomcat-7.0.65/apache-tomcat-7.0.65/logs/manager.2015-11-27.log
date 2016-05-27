@@ -1,0 +1,22 @@
+Nov 27, 2015 4:37:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 27, 2015 4:37:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 27, 2015 4:37:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/CounterWebApp'
+Nov 27, 2015 4:37:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war.tmp
+Nov 27, 2015 4:43:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/CounterWebApp'
+Nov 27, 2015 4:43:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war.tmp
+Nov 27, 2015 9:45:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/CounterWebApp'
+Nov 27, 2015 9:45:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war.tmp
+Nov 27, 2015 9:48:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 27, 2015 9:48:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+Nov 27, 2015 9:48:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'

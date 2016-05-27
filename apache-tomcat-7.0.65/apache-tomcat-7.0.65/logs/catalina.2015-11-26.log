@@ -1,0 +1,16 @@
+Nov 26, 2015 1:40:17 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 26, 2015 1:40:17 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-apr-8081"]
+Nov 26, 2015 1:40:17 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-apr-8009"]
+Nov 26, 2015 1:40:17 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 26, 2015 1:40:17 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-apr-8081"]
+Nov 26, 2015 1:40:18 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-apr-8009"]
+Nov 26, 2015 1:40:18 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-apr-8081"]
+Nov 26, 2015 1:40:18 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-apr-8009"]

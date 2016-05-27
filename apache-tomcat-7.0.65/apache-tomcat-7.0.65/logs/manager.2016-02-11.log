@@ -1,0 +1,8 @@
+Feb 11, 2016 5:28:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Feb 11, 2016 5:28:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Feb 11, 2016 5:28:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/CounterWebApp'
+Feb 11, 2016 5:28:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to D:\SCM_Tools\apache-tomcat-7.0.65\webapps\CounterWebApp.war.tmp

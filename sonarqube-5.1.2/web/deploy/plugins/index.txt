@@ -1,0 +1,6 @@
+core,true,sonar-core-plugin-5.1.2.jar|b86ec05f4953608b2b4b697c027ab994
+emailnotifications,true,sonar-email-notifications-plugin-5.1.2.jar|3dd4e623752556c7a8757c1989af0ece
+java,false,sonar-java-plugin-3.0.jar|ed58acf3705f747d40c2e1c56892d83c
+scmgit,false,sonar-scm-git-plugin-1.0.jar|e1d9d8e1d3524f9f0f69017e6dbead02
+l10nen,true,sonar-l10n-en-plugin-5.1.2.jar|bb21d03934050deec6cc95d0063d7789
+scmsvn,false,sonar-scm-svn-plugin-1.0.jar|6915a69a7810c2b33ad4276d99a23077

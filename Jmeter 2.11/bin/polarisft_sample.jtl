@@ -1,0 +1,48 @@
+1441176517254,65,/CounterWebApp/,200,OK,Thread Group 1-1,text,true,848,64
+1441176517421,12,/CounterWebApp/polaris.jpeg,200,OK,Thread Group 1-1,text,true,578,12
+1441176517214,77,Launch,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1426,76
+1441176517437,14,/CounterWebApp/hello,200,OK,Thread Group 1-1,text,true,578,14
+1441176517452,16,/CounterWebApp/polaris.jpeg,200,OK,Thread Group 1-1,text,true,578,16
+1441176517437,30,Click_Servlet,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1156,30
+1441176517470,35,/,200,OK,Thread Group 1-1,text,true,37728,30
+1441176517506,8,/fonts/glyphicons-halflings-regular.woff,500,Internal Server Error,Thread Group 1-1,text,false,222,8
+1441176517522,8,/fonts/social-icons.woff,500,Internal Server Error,Thread Group 1-1,text,false,222,8
+1441176517533,10,/fonts/social-icons.ttf,200,OK,Thread Group 1-1,text,true,44355,9
+1441176517546,21005,/widgets.js,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176538562,21008,/collect,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176559580,21009,/iframe_api,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176580593,21007,/en_EN/all.js,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176517469,84090,Click_PolarisFT,,"Number of samples in transaction : 8, number of failing samples : 6",Thread Group 1-1,,false,89731,55
+1441176659790,29,Launch,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1337,0
+1441176659831,25,Click_Servlet,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,978,0
+1441176659863,31,Click_PolarisFT,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,82083,0
+1441176695194,81,/CounterWebApp/,200,OK,Thread Group 1-1,text,true,848,81
+1441176695371,14,/CounterWebApp/polaris.jpeg,200,OK,Thread Group 1-1,text,true,579,14
+1441176695152,95,Launch,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1427,95
+1441176695388,9,/CounterWebApp/hello,200,OK,Thread Group 1-1,text,true,579,9
+1441176695398,7,/CounterWebApp/polaris.jpeg,200,OK,Thread Group 1-1,text,true,579,7
+1441176695388,16,Click_Servlet,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1158,16
+1441176695407,29,/,200,OK,Thread Group 1-1,text,true,37728,25
+1441176695437,7,/fonts/glyphicons-halflings-regular.woff,500,Internal Server Error,Thread Group 1-1,text,false,222,7
+1441176695449,6,/fonts/social-icons.woff,500,Internal Server Error,Thread Group 1-1,text,false,222,6
+1441176695459,5,/fonts/social-icons.ttf,200,OK,Thread Group 1-1,text,true,44355,5
+1441176695467,21002,/widgets.js,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176716479,21010,/collect,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176737496,21003,/iframe_api,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176758502,21007,/en_EN/all.js,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176695407,84069,Click_PolarisFT,,"Number of samples in transaction : 8, number of failing samples : 6",Thread Group 1-1,,false,89731,43
+1441176784067,60,/CounterWebApp/,200,OK,Thread Group 1-1,text,true,848,60
+1441176784225,19,/CounterWebApp/polaris.jpeg,200,OK,Thread Group 1-1,text,true,579,19
+1441176784017,79,Launch,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1427,79
+1441176784246,6,/CounterWebApp/hello,200,OK,Thread Group 1-1,text,true,579,6
+1441176784253,13,/CounterWebApp/polaris.jpeg,200,OK,Thread Group 1-1,text,true,579,13
+1441176784246,19,Click_Servlet,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1158,19
+1441176784268,22,/,200,OK,Thread Group 1-1,text,true,37728,21
+1441176784292,7,/fonts/glyphicons-halflings-regular.woff,500,Internal Server Error,Thread Group 1-1,text,false,222,7
+1441176784303,6,/fonts/social-icons.woff,500,Internal Server Error,Thread Group 1-1,text,false,222,6
+1441176784313,8,/fonts/social-icons.ttf,200,OK,Thread Group 1-1,text,true,44355,7
+1441176784324,21005,/widgets.js,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176805340,20989,/collect,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176826336,21003,/iframe_api,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176847342,21006,/en_EN/all.js,Non HTTP response code: java.net.ConnectException,Non HTTP response message: Connection timed out: connect,Thread Group 1-1,text,false,1801,0
+1441176784267,84046,Click_PolarisFT,,"Number of samples in transaction : 8, number of failing samples : 6",Thread Group 1-1,,false,89731,41

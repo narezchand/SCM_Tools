@@ -1,0 +1,273 @@
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015.12.23 04:31:30 INFO  web[o.s.s.c.ComputationService] Analysis of project com.mkyong:CounterWebApp (report 4) (done) | time=1485ms
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015.12.23 08:12:24 INFO  web[o.s.s.c.ComputationService] Analysis of project com.mkyong:CounterWebApp (report 5) (done) | time=1453ms
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2016.01.11 10:33:21 INFO  app[o.s.p.m.JavaProcessLauncher] Launch process[search]: C:\Program Files\Java\jre1.8.0_65\bin\java -Djava.awt.headless=true -Xmx1G -Xms256m -Xss256k -Djava.net.preferIPv4Stack=true -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -XX:+HeapDumpOnOutOfMemoryError -Djava.io.tmpdir=D:\SCM_Tools\sonarqube-5.1.2\temp -cp ./lib/common/*;./lib/search/* org.sonar.search.SearchServer C:\Users\ADMINI~1\AppData\Local\Temp\2\sq-process1564716407431124478properties
+2016.01.11 10:33:22 INFO   es[o.s.p.ProcessEntryPoint]  Starting search
+2016.01.11 10:33:22 INFO   es[o.s.s.SearchServer]  Starting Elasticsearch[sonarqube] on port 9001
+2016.01.11 10:33:22 INFO   es[o.elasticsearch.node]  [sonar-1452508401285] version[1.4.4], pid[3764], build[c88f77f/2015-02-19T13:05:36Z]
+2016.01.11 10:33:22 INFO   es[o.elasticsearch.node]  [sonar-1452508401285] initializing ...
+2016.01.11 10:33:22 INFO   es[o.e.plugins]  [sonar-1452508401285] loaded [], sites []
+2016.01.11 10:33:24 INFO   es[o.elasticsearch.node]  [sonar-1452508401285] initialized
+2016.01.11 10:33:24 INFO   es[o.elasticsearch.node]  [sonar-1452508401285] starting ...
+2016.01.11 10:33:25 INFO   es[o.e.transport]  [sonar-1452508401285] bound_address {inet[/0.0.0.0:9001]}, publish_address {inet[/172.31.14.187:9001]}
+2016.01.11 10:33:25 INFO   es[o.e.discovery]  [sonar-1452508401285] sonarqube/ARA838nWR06HhQcwjedgXA
+2016.01.11 10:33:28 INFO   es[o.e.cluster.service]  [sonar-1452508401285] new_master [sonar-1452508401285][ARA838nWR06HhQcwjedgXA][agent][inet[/172.31.14.187:9001]]{rack_id=sonar-1452508401285}, reason: zen-disco-join (elected_as_master)
+2016.01.11 10:33:28 INFO   es[o.elasticsearch.node]  [sonar-1452508401285] started
+2016.01.11 10:33:29 INFO   es[o.e.gateway]  [sonar-1452508401285] recovered [6] indices into cluster_state
+2016.01.11 10:33:30 INFO  app[o.s.p.m.Monitor] Process[search] is up
+2016.01.11 10:33:30 INFO  app[o.s.p.m.JavaProcessLauncher] Launch process[web]: C:\Program Files\Java\jre1.8.0_65\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djruby.management.enabled=false -Djruby.compile.invokedynamic=false -Xmx768m -XX:MaxPermSize=160m -XX:+HeapDumpOnOutOfMemoryError -Djava.net.preferIPv4Stack=true -Djava.io.tmpdir=D:\SCM_Tools\sonarqube-5.1.2\temp -cp ./lib/common/*;./lib/server/*;D:\SCM_Tools\sonarqube-5.1.2\lib\jdbc\mysql\mysql-connector-java-5.1.34.jar org.sonar.server.app.WebServer C:\Users\ADMINI~1\AppData\Local\Temp\2\sq-process3493097786934214019properties
+2016.01.11 10:33:30 INFO  web[o.s.p.ProcessEntryPoint] Starting web
+2016.01.11 10:33:31 INFO  web[o.s.s.app.Webapp] Webapp directory: D:\SCM_Tools\sonarqube-5.1.2\web
+2016.01.11 10:33:31 INFO  web[o.a.c.h.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-127.0.0.1-9000"]
+2016.01.11 10:33:31 INFO  web[o.a.t.u.n.NioSelectorPool] Using a shared selector for servlet write/read
+2016.01.11 10:33:32 INFO  web[o.e.plugins] [sonar-1452508401285] loaded [], sites []
+2016.01.11 10:33:33 INFO  web[o.s.s.p.ServerImpl] SonarQube Server / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.11 10:33:33 INFO  web[o.s.c.p.Database] Create JDBC datasource for jdbc:mysql://localhost:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance
+2016.01.11 10:33:34 INFO  web[o.s.s.p.DefaultServerFileSystem] SonarQube home: D:\SCM_Tools\sonarqube-5.1.2
+2016.01.11 10:33:34 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Install plugins
+2016.01.11 10:33:34 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Core / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.11 10:33:34 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Email notifications / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.11 10:33:34 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Java / 3.0 / 65396a609ddface8b311a6a665aca92a7da694f1
+2016.01.11 10:33:34 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Git / 1.0 / 9ce9d330c313c296fab051317cc5ad4b26319e07
+2016.01.11 10:33:34 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin English Pack / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.11 10:33:34 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin SVN / 1.0 / 213fc8a8b582ff530b12dd4a59a6512be1071234
+2016.01.11 10:33:34 INFO  web[o.s.s.p.RailsAppsDeployer] Deploy Ruby on Rails applications
+2016.01.11 10:33:35 INFO  web[o.s.j.s.AbstractDatabaseConnector] Initializing Hibernate
+2016.01.11 10:33:36 INFO  web[o.s.s.p.UpdateCenterClient] Update center: http://update.sonarsource.org/update-center.properties (no proxy)
+2016.01.11 10:33:36 INFO  web[o.s.s.n.NotificationService] Notification service started (delay 60 sec.)
+2016.01.11 10:33:37 INFO  web[o.s.s.s.IndexSynchronizer] Index rules
+2016.01.11 10:33:37 INFO  web[o.s.s.s.IndexSynchronizer] Index activeRules
+2016.01.11 10:33:37 INFO  web[o.s.s.s.RegisterMetrics] Register metrics
+2016.01.11 10:33:37 INFO  web[o.s.s.s.RegisterMetrics] Cleaning quality gate conditions
+2016.01.11 10:33:37 INFO  web[o.s.s.s.RegisterDebtModel] Register technical debt model
+2016.01.11 10:33:37 INFO  web[o.s.s.r.RegisterRules] Register rules
+2016.01.11 10:33:38 INFO  web[o.s.s.q.RegisterQualityProfiles] Register quality profiles
+2016.01.11 10:33:38 INFO  web[o.s.s.s.RegisterNewMeasureFilters] Register measure filters
+2016.01.11 10:33:38 INFO  web[o.s.s.s.RegisterDashboards] Register dashboards
+2016.01.11 10:33:38 INFO  web[o.s.s.s.RegisterPermissionTemplates] Register permission templates
+2016.01.11 10:33:38 INFO  web[o.s.s.s.RenameDeprecatedPropertyKeys] Rename deprecated property keys
+2016.01.11 10:33:38 INFO  web[o.s.s.s.IndexSynchronizer] Index activities
+2016.01.11 10:33:38 INFO  web[o.s.s.s.IndexSynchronizer] Index issues
+2016.01.11 10:33:38 INFO  web[o.s.s.s.IndexSynchronizer] Index source lines
+2016.01.11 10:33:38 INFO  web[o.s.s.s.IndexSynchronizer] Index users
+2016.01.11 10:33:38 INFO  web[o.s.s.s.IndexSynchronizer] Index views
+2016.01.11 10:33:39 INFO  web[jruby.rack] jruby 1.7.9 (ruby-1.8.7p370) 2013-12-06 87b108a on Java HotSpot(TM) 64-Bit Server VM 1.8.0_65-b17 [Windows Server 2012 R2-amd64]
+2016.01.11 10:33:39 INFO  web[jruby.rack] using a shared (threadsafe!) runtime
+2016.01.11 10:33:47 INFO  web[jruby.rack] keeping custom (config.logger) Rails logger instance
+2016.01.11 10:33:47 INFO  web[o.a.c.h.Http11NioProtocol] Starting ProtocolHandler ["http-nio-127.0.0.1-9000"]
+2016.01.11 10:33:47 INFO  web[o.s.s.a.TomcatAccessLog] Web server is started
+2016.01.11 10:33:47 INFO  web[o.s.s.a.EmbeddedTomcat] HTTP connector enabled on port 9000
+2016.01.11 10:33:48 INFO  app[o.s.p.m.Monitor] Process[web] is up
+2016.01.11 10:43:28 INFO  web[o.s.s.c.ComputationService] Analysis of project com.mkyong:CounterWebApp (report 1) (done) | time=1485ms
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+2016.01.22 08:46:53 INFO  app[o.s.p.m.JavaProcessLauncher] Launch process[search]: C:\Program Files\Java\jre1.8.0_65\bin\java -Djava.awt.headless=true -Xmx1G -Xms256m -Xss256k -Djava.net.preferIPv4Stack=true -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:CMSInitiatingOccupancyFraction=75 -XX:+UseCMSInitiatingOccupancyOnly -XX:+HeapDumpOnOutOfMemoryError -Djava.io.tmpdir=D:\SCM_Tools\sonarqube-5.1.2\temp -cp ./lib/common/*;./lib/search/* org.sonar.search.SearchServer C:\Users\ADMINI~1\AppData\Local\Temp\2\sq-process6265553375534173050properties
+2016.01.22 08:46:53 INFO   es[o.s.p.ProcessEntryPoint]  Starting search
+2016.01.22 08:46:53 INFO   es[o.s.s.SearchServer]  Starting Elasticsearch[sonarqube] on port 9001
+2016.01.22 08:46:54 INFO   es[o.elasticsearch.node]  [sonar-1453452413202] version[1.4.4], pid[4056], build[c88f77f/2015-02-19T13:05:36Z]
+2016.01.22 08:46:54 INFO   es[o.elasticsearch.node]  [sonar-1453452413202] initializing ...
+2016.01.22 08:46:54 INFO   es[o.e.plugins]  [sonar-1453452413202] loaded [], sites []
+2016.01.22 08:46:56 INFO   es[o.elasticsearch.node]  [sonar-1453452413202] initialized
+2016.01.22 08:46:56 INFO   es[o.elasticsearch.node]  [sonar-1453452413202] starting ...
+2016.01.22 08:46:56 INFO   es[o.e.transport]  [sonar-1453452413202] bound_address {inet[/0.0.0.0:9001]}, publish_address {inet[/172.31.14.187:9001]}
+2016.01.22 08:46:56 INFO   es[o.e.discovery]  [sonar-1453452413202] sonarqube/kII4RL49TWGjp3Lim5cayw
+2016.01.22 08:46:59 INFO   es[o.e.cluster.service]  [sonar-1453452413202] new_master [sonar-1453452413202][kII4RL49TWGjp3Lim5cayw][agent][inet[/172.31.14.187:9001]]{rack_id=sonar-1453452413202}, reason: zen-disco-join (elected_as_master)
+2016.01.22 08:46:59 INFO   es[o.elasticsearch.node]  [sonar-1453452413202] started
+2016.01.22 08:47:00 INFO   es[o.e.gateway]  [sonar-1453452413202] recovered [6] indices into cluster_state
+2016.01.22 08:47:01 INFO  app[o.s.p.m.Monitor] Process[search] is up
+2016.01.22 08:47:01 INFO  app[o.s.p.m.JavaProcessLauncher] Launch process[web]: C:\Program Files\Java\jre1.8.0_65\bin\java -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djruby.management.enabled=false -Djruby.compile.invokedynamic=false -Xmx768m -XX:MaxPermSize=160m -XX:+HeapDumpOnOutOfMemoryError -Djava.net.preferIPv4Stack=true -Djava.io.tmpdir=D:\SCM_Tools\sonarqube-5.1.2\temp -cp ./lib/common/*;./lib/server/*;D:\SCM_Tools\sonarqube-5.1.2\lib\jdbc\mysql\mysql-connector-java-5.1.34.jar org.sonar.server.app.WebServer C:\Users\ADMINI~1\AppData\Local\Temp\2\sq-process7518324548692681156properties
+2016.01.22 08:47:02 INFO  web[o.s.p.ProcessEntryPoint] Starting web
+2016.01.22 08:47:02 INFO  web[o.s.s.app.Webapp] Webapp directory: D:\SCM_Tools\sonarqube-5.1.2\web
+2016.01.22 08:47:02 INFO  web[o.a.c.h.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-127.0.0.1-9000"]
+2016.01.22 08:47:02 INFO  web[o.a.t.u.n.NioSelectorPool] Using a shared selector for servlet write/read
+2016.01.22 08:47:03 INFO  web[o.e.plugins] [sonar-1453452413202] loaded [], sites []
+2016.01.22 08:47:04 INFO  web[o.s.s.p.ServerImpl] SonarQube Server / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.22 08:47:04 INFO  web[o.s.c.p.Database] Create JDBC datasource for jdbc:mysql://localhost:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance
+2016.01.22 08:47:05 INFO  web[o.s.s.p.DefaultServerFileSystem] SonarQube home: D:\SCM_Tools\sonarqube-5.1.2
+2016.01.22 08:47:05 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Install plugins
+2016.01.22 08:47:05 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Core / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.22 08:47:05 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Email notifications / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.22 08:47:05 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Java / 3.0 / 65396a609ddface8b311a6a665aca92a7da694f1
+2016.01.22 08:47:05 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin Git / 1.0 / 9ce9d330c313c296fab051317cc5ad4b26319e07
+2016.01.22 08:47:05 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin English Pack / 5.1.2 / 2a52a7106b2bfbd659c591c2d6fc09ad0ab2db5c
+2016.01.22 08:47:05 INFO  web[o.s.s.p.ServerPluginJarsInstaller] Deploy plugin SVN / 1.0 / 213fc8a8b582ff530b12dd4a59a6512be1071234
+2016.01.22 08:47:06 INFO  web[o.s.s.p.RailsAppsDeployer] Deploy Ruby on Rails applications
+2016.01.22 08:47:06 INFO  web[o.s.j.s.AbstractDatabaseConnector] Initializing Hibernate
+2016.01.22 08:47:07 INFO  web[o.s.s.p.UpdateCenterClient] Update center: http://update.sonarsource.org/update-center.properties (no proxy)
+2016.01.22 08:47:07 INFO  web[o.s.s.n.NotificationService] Notification service started (delay 60 sec.)
+2016.01.22 08:47:08 INFO  web[o.s.s.s.IndexSynchronizer] Index rules
+2016.01.22 08:47:08 INFO  web[o.s.s.s.IndexSynchronizer] Index activeRules
+2016.01.22 08:47:08 INFO  web[o.s.s.s.RegisterMetrics] Register metrics
+2016.01.22 08:47:08 INFO  web[o.s.s.s.RegisterMetrics] Cleaning quality gate conditions
+2016.01.22 08:47:08 INFO  web[o.s.s.s.RegisterDebtModel] Register technical debt model
+2016.01.22 08:47:08 INFO  web[o.s.s.r.RegisterRules] Register rules
+2016.01.22 08:47:09 INFO  web[o.s.s.q.RegisterQualityProfiles] Register quality profiles
+2016.01.22 08:47:09 INFO  web[o.s.s.s.RegisterNewMeasureFilters] Register measure filters
+2016.01.22 08:47:09 INFO  web[o.s.s.s.RegisterDashboards] Register dashboards
+2016.01.22 08:47:09 INFO  web[o.s.s.s.RegisterPermissionTemplates] Register permission templates
+2016.01.22 08:47:09 INFO  web[o.s.s.s.RenameDeprecatedPropertyKeys] Rename deprecated property keys
+2016.01.22 08:47:09 INFO  web[o.s.s.s.IndexSynchronizer] Index activities
+2016.01.22 08:47:09 INFO  web[o.s.s.s.IndexSynchronizer] Index issues
+2016.01.22 08:47:09 INFO  web[o.s.s.s.IndexSynchronizer] Index source lines
+2016.01.22 08:47:09 INFO  web[o.s.s.s.IndexSynchronizer] Index users
+2016.01.22 08:47:09 INFO  web[o.s.s.s.IndexSynchronizer] Index views
+2016.01.22 08:47:09 INFO  web[jruby.rack] jruby 1.7.9 (ruby-1.8.7p370) 2013-12-06 87b108a on Java HotSpot(TM) 64-Bit Server VM 1.8.0_65-b17 [Windows Server 2012 R2-amd64]
+2016.01.22 08:47:09 INFO  web[jruby.rack] using a shared (threadsafe!) runtime
+2016.01.22 08:47:17 INFO  web[jruby.rack] keeping custom (config.logger) Rails logger instance
+2016.01.22 08:47:18 INFO  web[o.a.c.h.Http11NioProtocol] Starting ProtocolHandler ["http-nio-127.0.0.1-9000"]
+2016.01.22 08:47:18 INFO  web[o.s.s.a.TomcatAccessLog] Web server is started
+2016.01.22 08:47:18 INFO  web[o.s.s.a.EmbeddedTomcat] HTTP connector enabled on port 9000
+2016.01.22 08:47:18 INFO  app[o.s.p.m.Monitor] Process[web] is up
+2016.01.22 08:56:31 INFO  web[o.s.s.c.ComputationService] Analysis of project com.mkyong:CounterWebApp (report 1) (done) | time=1266ms
+2016.01.22 09:10:05 INFO  web[o.s.s.c.ComputationService] Analysis of project com.mkyong:CounterWebApp (report 2) (done) | time=532ms
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+	at sun.awt.windows.WToolkit$3.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)

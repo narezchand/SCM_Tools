@@ -1,0 +1,15 @@
+127.0.0.1 - tomcat [13/Dec/2015:06:07:50 +0000] "PUT /manager/text/deploy?path=%2FCounterWebApp&update=true HTTP/1.1" 200 69
+127.0.0.1 - - [13/Dec/2015:06:07:56 +0000] "GET /CounterWebApp/ HTTP/1.1" 200 571
+127.0.0.1 - - [13/Dec/2015:06:07:57 +0000] "GET /CounterWebApp/polaris.jpeg HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:07:57 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [13/Dec/2015:06:07:57 +0000] "GET /CounterWebApp/hello HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:07:57 +0000] "GET /CounterWebApp/polaris.jpeg HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:08:10 +0000] "GET /CounterWebApp/ HTTP/1.1" 200 571
+127.0.0.1 - - [13/Dec/2015:06:08:10 +0000] "GET /CounterWebApp/polaris.jpeg HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:08:10 +0000] "GET /CounterWebApp/hello HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:08:10 +0000] "GET /CounterWebApp/polaris.jpeg HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:10:17 +0000] "GET /CounterWebApp/ HTTP/1.1" 200 571
+127.0.0.1 - - [13/Dec/2015:06:10:17 +0000] "GET /CounterWebApp/polaris.jpeg HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:10:17 +0000] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [13/Dec/2015:06:10:20 +0000] "GET /CounterWebApp/hello HTTP/1.1" 200 304
+127.0.0.1 - - [13/Dec/2015:06:10:20 +0000] "GET /CounterWebApp/polaris.jpeg HTTP/1.1" 200 304

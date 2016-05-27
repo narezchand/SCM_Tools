@@ -1,0 +1,3 @@
+1441264468928,1510,Launch,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,1337,0
+1441264470576,13,Click_Servlet,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,978,0
+1441264470610,292,Click_PolarisFT,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,82083,0
